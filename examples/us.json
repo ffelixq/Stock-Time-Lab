@@ -1,0 +1,12 @@
+{
+  "market": "US",
+  "tickers": ["NVDA", "AMD"],
+  "benchmark": "SPY",
+  "start": "2025-10-01",
+  "end": "2026-10-01",
+  "eventDate": "",
+  "eventName": "",
+  "excludeDates": [],
+  "holdoutPercent": 20,
+  "fees": {"notional": 10000,"brokerPercent": 0,"brokerMinimum": 0,"exchangePercent": 0,"settlement": 0,"taxPercent": 0,"slippageBps": 1}
+}

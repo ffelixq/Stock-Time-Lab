@@ -1,0 +1,12 @@
+{
+  "market": "SGX",
+  "tickers": ["D05.SI", "O39.SI", "U11.SI"],
+  "benchmark": "",
+  "start": "2024-09-26",
+  "end": "2026-09-24",
+  "eventDate": "2025-01-21",
+  "eventName": "First SGX session after inauguration",
+  "excludeDates": [],
+  "holdoutPercent": 20,
+  "fees": {"notional": 10000,"brokerPercent": 0,"brokerMinimum": 0,"exchangePercent": 0.04,"settlement": 0.35,"taxPercent": 9,"slippageBps": 0}
+}
